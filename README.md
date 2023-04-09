@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joinichi8
-- 👀 I’m interested in ... Information Technology
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ... Information Technology.
+- 🌱 I’m currently learning ... to code.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... joinichi8@gmail.com
 
